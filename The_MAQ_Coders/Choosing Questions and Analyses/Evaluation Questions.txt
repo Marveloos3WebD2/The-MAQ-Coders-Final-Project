@@ -1,0 +1,25 @@
+Which products are most profitable?
+How well of a predictor is Gross Sales for Total Net Sales?
+Does Discount increase Total Net Sales?
+Does Discount increase Total Net Sales?
+How does Net Quantity influence Total Net Sales?
+Determine the relationship between Net Quantity and Discounts?
+What are the products that yield the highest Total Net Sales with the least Net Quantity require?
+
+Travel:
+Predict potential clients who more likely to book packages for marketing purposes. 
+Does the duration of pitch by a salesperson and the number of follow ups influence the sales of a travel package?
+Does the Product pitch result to the same travel package purchased by customers or do they go with their budget?
+Does the city tier influence the type of travel package a customer purchase?
+Which type of contact create more sales?
+Which type of property sell the most to the travelers?
+•	Matrix to see which variables is more correlated with each other.
+•	Determine profile of potential customers using NumberOfTrips as dependent variable and independent variables as Occupation, MonthlyIncome, MaritalStatus, Gender and Age
+•	Examine the relationship between number of Children Visiting and Marital status.
+•	Examine whether having a passport influence the number of trips.
+•	Examine which group of Designation yield more trips.
+•	Examine the best duration pitch.
+•	Examine the best Product Pitched. 
+•	Exam whether the type of contact influence the Number of Trips.
+•	Exam whether the Pitch Satisfaction Score influence the Number of Trips.
+•	Exam which pitch duration and product yield the most Pitch Satisfaction score.
